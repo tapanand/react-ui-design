@@ -1,0 +1,10 @@
+{
+  "name": "react-ui-design",
+  "version": "0.0.1",
+  "description": "DEsign system for react",
+  "main": "index.js",
+  "repository": "https://github.com/tapanand/react-ui-design.git",
+  "author": "tapanand",
+  "license": "ISC",
+  "private": false
+}
